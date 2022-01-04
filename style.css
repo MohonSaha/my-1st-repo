@@ -2,8 +2,25 @@ body{
     background-color: tomato;
 }
 h1{
-    color: violet;
+    color: rgb(81, 7, 255);
+    text-align: center;
+
 }
 p{
     color: white;
+    /* margin: 10px; */
+}
+div{
+    margin: 15px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+address{
+    /* text-align: right; */
+    /* text-align: justify; */
+    /* text-align: end; */
+    text-align: center;
+}
+#ab{
+    te
 }
